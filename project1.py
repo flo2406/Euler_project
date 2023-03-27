@@ -16,6 +16,11 @@ print(res)
 
 #Second soluce
 
+# We can use the fact that the sum of multiple of y in the n first number is 
+# y * sum of the first (n / y) numbers
+
+# Moreover the n first number is equal to n * (n + 1) / 2
+
 def find_3_5_multiple_v2(n):
 	n = n - 1 # To not take care of 1000
 	sum_multiple_3 = 3 * ((n // 3) * (n // 3 + 1)) // 2
