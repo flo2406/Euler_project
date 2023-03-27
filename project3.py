@@ -1,6 +1,6 @@
 import math
 
-# First intuitive soluce
+# First soluce
 
 def is_prime(n):
 	for i in range(2,n):

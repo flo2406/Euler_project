@@ -1,4 +1,4 @@
-#First intuitive soluce
+#First soluce
 
 def sum_even_fibo_v1(limit):
 	tmp1 = 1

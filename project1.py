@@ -1,4 +1,4 @@
-#First intuitive soluce
+#First soluce
 
 def find_3_5_multiple_v1(n):
 	res = 0
