@@ -38,7 +38,7 @@ def magic_3_gon():
     return res
 
 
-# Magic 3 gon
+# Magic 5 gon
 # a / b / c / d / e is intern and f / g / h / i / j is extern
 # f + a + b = g + b + c = h + c + d = i + d + e = j + e + a
 
